@@ -1,0 +1,9 @@
+Aqui se encontra os principais comandos do git
+-git status
+-git commit -m 'descrição da execução'
+-git log
+-git merge 'nome da branch'
+-git reset -- 'nome do arquivo'
+-git checkout 'nome da branch'
+-git branch -> lista das branchs existentes
+-git checkout -b 'nome da branch' -> cria e estancia a branch
