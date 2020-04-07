@@ -1,0 +1,1 @@
+Como criar bases separadas para manipulação de código antes de subir para o arquivo master
